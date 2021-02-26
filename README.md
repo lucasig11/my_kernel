@@ -1,5 +1,4 @@
 # My little stupid baby kernel :)
----
 
 ### Pre-requisites:
 - GNU/Linux
