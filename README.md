@@ -13,3 +13,6 @@
 cd my_kernel
 sh run.sh
 ~~~
+
+### Screenshot
+![LulaCrackudoOS](assets/screenshot.png)
