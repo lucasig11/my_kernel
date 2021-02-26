@@ -173,5 +173,6 @@ void kernel_entry()
 
     print_string("Digite algo:");
     print_new_line();
+    print_new_line();
     control_input();
 }
